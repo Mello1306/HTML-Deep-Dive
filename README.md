@@ -3,8 +3,8 @@ Learning HTML from the ground up. Each day features a new project built from scr
 
 ## My 15-Day Progress
 
-| Day | Project Topic | Source Code | Live Preview |
-| :--- | :--- | :--- | :--- |
-| 01 | Arts & Crafts Article | [Code](./01-semantic-article-hobby/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/01-semantic-article-hobby/) |
+| Day | Project Folder | Project Topic | Source Code | Live Preview |
+| :--- | :--- | :--- | :--- | :--- |
+| 01 | 01-semantic-article-hobby | Arts & Crafts Article | [Code](./01-semantic-article-hobby/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/01-semantic-article-hobby/) |
 
  
