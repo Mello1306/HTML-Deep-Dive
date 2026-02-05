@@ -7,3 +7,4 @@ Learning HTML from the ground up. Each day features a new project built from scr
 | :--- | :--- | :--- | :--- |
 | 01 | Arts & Crafts Article | [Code](./01-semantic-article-hobby/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/01-semantic-article-hobby/) |
 
+ 
