@@ -9,6 +9,7 @@ Learning HTML from the ground up. Each day features a new project built from scr
 | 02 | 02-lists-and-links | Interests & Navigation | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/02-lists-and-links/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/02-lists-and-links/) |
 | 03 | 03-images-and-attributes | Visual Gallery | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/03-images-and-attributes/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/03-images-and-attributes/) |
 | 04 | 04-semantic-blog-layout | My Journey | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/04-semantic-blog-layout/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/04-semantic-blog-layout/) |
+| 05 | 05-tables | Weekly Schedule | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/05-tables/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/05-tables/) |
 
 
   
