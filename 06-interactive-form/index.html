@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Team Registration Form</title>
+</head>
+<body>
+
+    <nav>
+
+        <a href="https://mello1306.github.io/HTML-Deep-Dive/05-tables/">View Day 05 Project</a>
+
+    </nav>
+
+    <header>
+
+        <h1>Join Team "Runtime Terror"</h1>
+        <h2>Register for the upcoming Smart India Hackathon.</h2>
+
+    </header>
+
+    <main>
+
+        <form action="#">
+
+            <p>
+                <label for="full-name">Full Name :</label>
+                <input type="text" id="full-name" name="name" required>
+
+            </p>
+
+            <p>
+
+                <label for="user-email">Email Address :</label>
+                <input type="email" id="user-email" name="email" required>
+
+            </p>
+
+            <p>
+
+                <label for="role">Preferred Role :</label>
+
+                <select id="role" name="user-role">
+
+                    <option value="frontend">Frontend Developer</option>
+                    <option value="backend">Backend Developer</option>
+                    <option value="competitive">Competitive Programmer</option>
+
+                </select>
+
+            </p>
+
+            <fieldset>
+
+                <legend>Current Experience Level</legend>
+                <input type="radio" id="beginner" name="level" value="beginner">
+                <label for="beginner">Beginner</label><br>
+                <input type="radio" id="pro" name="level" value="pro">
+                <label for="pro">Pro (3+ Year Streak)</label>
+            </fieldset>
+
+            <p>
+
+                <input type="checkbox" id="terms" name="agree" required>
+                <label for="terms">I agree to stay consistent for 3 years.</label>
+
+
+            </p>
+
+            <button type="submit">Submit Registration</button>
+
+        </form>
+
+    </main>
+
+
+    <footer>
+
+        <p><a href="https://github.com/Mello1306/HTML-Deep-Dive?tab=readme-ov-file">My HTML Repository</a></p>
+    </footer>
+
+</body>
+</html>
