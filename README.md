@@ -11,6 +11,7 @@ Learning HTML from the ground up. Each day features a new project built from scr
 | 04 | 04-semantic-blog-layout | My Journey | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/04-semantic-blog-layout/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/04-semantic-blog-layout/) |
 | 05 | 05-tables | Weekly Schedule | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/05-tables/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/05-tables/) |
 | 06 | 06-interactive-form | Team Registration Form | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/06-interactive-form/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/06-interactive-form/) |
+| 07 | 07-html-entities | HTML Entities | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/07-html-entities/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/07-html-entities/) |
 
 
   
