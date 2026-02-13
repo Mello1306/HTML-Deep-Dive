@@ -13,7 +13,7 @@ Learning HTML from the ground up. Each day features a new project built from scr
 | 06 | 06-interactive-form | Team Registration Form | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/06-interactive-form/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/06-interactive-form/) |
 | 07 | 07-html-entities | HTML Entities | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/07-html-entities/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/07-html-entities/) |
 | 08 | 08-multimedia-and-embedding | Multimedia Hub | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/08-multimedia-and-embedding/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/08-multimedia-and-embedding/) |
-| 09 | 09-svg-and-canvas | Skills Dashboard | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/08-multimedia-and-embedding/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/08-multimedia-and-embedding/) |
+| 09 | 09-svg-and-canvas | Skills Dashboard | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/09-svg-and-canvas/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/09-svg-and-canvas/) |
 
 
   
