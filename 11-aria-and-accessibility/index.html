@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accessible Registration Form</title>
+</head>
+<body>
+
+    <header role="banner">
+        <h1>Accessible Join Form</h1>
+
+        <p>Upgraded for Team "Runtime Terror" Accessibility Standards.</p>
+
+
+        <nav>
+
+            <a href="https://github.com/Mello1306/HTML-Deep-Dive?tab=readme-ov-file">My HTML Repository</a>
+            </br>
+
+            <a href="https://mello1306.github.io/HTML-Deep-Dive/10-meta-tags-and-seo/">View Day 10 Project</a>
+
+        </nav>
+    </header>
+
+    <main role="main">
+
+        <section aria-labelledby="form-title">
+
+            <h2 id="form-title">Member Registration</h2>
+            
+            <form action="#" role="form">
+
+                <fieldset>
+                    <legend>Personal Information</legend>
+                    
+                    <p>
+
+                        <label for="name">Full Name:</label>
+
+                        <input type="text" id="name" name="name" 
+                               aria-required="true" 
+                               placeholder="e.g. Vaibhavi" 
+                               tabindex="1">
+                    </p>
+
+                    <p>
+
+                        <label for="email">Email Address:</label>
+                        <input type="email" id="email" name="email" 
+                               aria-label="Enter your professional email" 
+                               tabindex="2">
+
+                    </p>
+                </fieldset>
+
+                <p>
+
+                    <button type="submit" aria-label="Submit registration to Runtime Terror" tabindex="3">
+
+                        Register Now
+
+                    </button>
+                </p>
+            </form>
+
+        </section>
+
+    </main>
+
+    <footer role="contentinfo">
+
+        <p>&copy; 2026 Vaibhavi &bull; Scaler School of Technology</p>
+
+    </footer>
+
+</body>
+</html>
