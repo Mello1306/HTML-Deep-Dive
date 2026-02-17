@@ -17,6 +17,7 @@ Learning HTML from the ground up. Each day features a new project built from scr
 | 10 | 10-meta-tags-and-seo | SEO & Meta Tags Mastery | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/10-meta-tags-and-seo/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/10-meta-tags-and-seo/) |
 | 11 | 11-aria-and-accessibility | Accessible Registration Form | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/11-aria-and-accessibility/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/11-aria-and-accessibility/) |
 | 12 | 12-scripting-basics | Scripting Basics | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/12-scripting-basics/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/12-scripting-basics/) |
+| 13 | 13-web-components-templates | Web Components & Templates | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/13-web-components-templates/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/13-web-components-templates/) |
 
 
   
