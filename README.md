@@ -20,6 +20,7 @@ Learning HTML from the ground up. Each day features a new project built from scr
 | 13 | 13-web-components-templates | Web Components & Templates | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/13-web-components-templates/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/13-web-components-templates/) |
 | 14 | 1st-project-phase1 | Developer Portfolio | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/1st-project-phase1/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/1st-project-phase1/) |
 | 15 | Link-tree | My Links | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/Link-tree/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/Link-tree/) |
+| 16 | 16-master-index | Master Navigation Hub | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/16-master-index/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/16-master-index/) |
 
 
   
