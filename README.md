@@ -23,6 +23,7 @@ Learning HTML from the ground up. Each day features a new project built from scr
 | 16 | 16-master-index | Master Navigation Hub | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/16-master-index/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/16-master-index/) |
 | 17 | 17-html-resume | Vaibhavi's HTML Resume | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/17-html-resume/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/17-html-resume/) |
 | 18 | 18-tech-survey | Tech Stack Survey | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/18-tech-survey/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/18-tech-survey/) |
+| 19 | Professional-Portfolio | Technical Portfolio | [Code](https://github.com/Mello1306/HTML-Deep-Dive/blob/main/Professional-Portfolio/index.html) | [Demo](https://mello1306.github.io/HTML-Deep-Dive/Professional-Portfolio/) |
 
 
   
